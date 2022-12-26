@@ -1,0 +1,28 @@
+Abstract
+Social media is popular in our society right now. People are using social media plat‑
+forms to purchase various products. We collected the data from various social media
+platforms. We analyzed the data for prediction of the consumer behavior on the social
+media platform. We considered the consumer data from Facebook, Twitter, Linked In
+and YouTube, Instagram, and Pinterest, etc. There are diverse and high‑speed, high
+volume data which are coming from social media platform, so we used predictive
+big data analytics. In this paper, we have used the concept of big data technology to
+process data and analyze it to predict consumer behavior on social media. We have
+analyzed consumer behavior on social media platforms based on some parameters
+and criteria. We analyzed the consumer perception, attitude towards the social media
+platform. To get good quality of result, we pre‑process data using various data pre‑
+processing to detect outlier, noises, error, and duplicate record. We developed math‑
+ematical modeling using machine learning to predict consumer behavior on the social
+media platform. This model is a predictive model for predicting consumer behavior
+on the social media platform. 80% of data are used for training purposes and 20% for
+testing.
+Keywords: Big data analytics, Predictive, Consumer perception, Social media, Data
+analytics, Consumer behaviour
+
+------------------
+
+
+Анотація
+Соціальні мережі зараз популярні в нашому суспільстві. Люди використовують платформи соціальних мереж, щоб купувати різні товари. Ми зібрали дані з різних платформ соціальних мереж. Ми проаналізували дані для прогнозування поведінки споживачів на платформі соціальних мереж. Ми розглянули дані споживачів із Facebook, Twitter, Linked In і YouTube, Instagram, Pinterest тощо. Існують різноманітні високошвидкісні та великі дані, які надходять із платформи соціальних мереж, тому ми використали прогнозну аналітику великих даних. У цій статті ми використали концепцію технології великих даних
+обробляти дані та аналізувати їх для прогнозування поведінки споживачів у соціальних мережах. Ми проаналізували поведінку споживачів у соціальних мережах за деякими параметрами та критеріями. Ми проаналізували споживче сприйняття, ставлення до соцмережі. Щоб отримати якісний результат, ми попередньо обробляємо дані, використовуючи різні методи попередньої обробки даних, щоб виявити викиди, шуми, помилки та дублікати запису. Ми розробили математичне моделювання за допомогою машинного навчання для прогнозування поведінки споживачів на платформі соціальних мереж. Ця модель є прогностичною моделлю для прогнозування поведінки споживачів
+на платформі соціальних мереж. 80% даних використовуються для навчання і 20% для тестування.
+Ключові слова: аналітика великих даних, прогнозування, сприйняття споживачів, соціальні медіа, аналітика даних, поведінка споживачів
