@@ -56,3 +56,106 @@ When you are first learning to write in this format it is okay to use a statemen
 Чому ви обрали такий експеримент чи експериментальний дизайн?
 Які наукові переваги цієї конкретної модельної системи?
 Які переваги це дає у відповіді на конкретне запитання, яке ви ставите?
+
+Additional evidence:
+
+Also
+Too
+And
+As well as
+Another
+In addition
+Even more
+Equally
+Let alone
+
+Додаткові докази:
+
+Також
+теж
+І
+Так само, як
+інший
+В додаток
+Навіть більше
+Нарівні
+Нехай навіть
+
+Comparison:
+Similarly
+Just like
+Likewise
+By the same token
+In a similar fashion
+
+Порівняння:
+Так само
+Так як
+Так само
+До того ж
+Подібним чином
+
+On the other hand At the same time
+Although Albeit
+Even though Even so
+In spite of Despite
+That said Granted
+Regardless Admittedly
+Instead But
+However Though
+Still Yet
+While Whereas
+Otherwise
+
+Previously Back then
+Nowadays Today
+Sometimes Once
+This time During
+Immediately Next
+Then Following
+Soon While
+Meanwhile Simultaneously
+
+In other words
+To clarify
+To rephrase
+To put it another way
+That is
+Actually
+
+To illustrate
+To demonstrate
+For instance
+For example
+
+Specifically
+Especially
+Particularly
+Including
+
+In fact
+Of course
+Surely
+Certainly
+Indeed
+Even
+Truly
+More importantly
+
+Because
+Due to
+Since
+As
+
+So
+As a result
+Therefore
+Subsequently
+Consequently
+
+In a nutshell
+In sum
+To put it briefly
+Altogether
+After all
+Ultimately
